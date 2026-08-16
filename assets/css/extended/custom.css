@@ -1,0 +1,45 @@
+/* =========================================================
+   Sheayu - Custom CSS
+   ========================================================= */
+
+body {
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        "PingFang SC",
+        "Hiragino Sans GB",
+        "Microsoft YaHei",
+        sans-serif;
+}
+
+/* 文章卡片 */
+
+.post-entry {
+    border-radius: 12px;
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.post-entry:hover {
+    transform: translateY(-2px);
+}
+
+/* 标签 */
+
+.terms-tags a {
+    border-radius: 8px;
+}
+
+/* 代码块 */
+
+.post-content pre {
+    border-radius: 10px;
+}
+
+/* 图片 */
+
+.post-content img {
+    border-radius: 8px;
+}
