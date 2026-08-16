@@ -1,0 +1,32 @@
+baseURL = "https://sheayu.github.io/"
+languageCode = "zh-cn"
+title = "我的个人博客"
+theme = "PaperMod"
+
+[params]
+  # 网站描述
+  description = "使用 Hugo PaperMod 搭建的个人博客"
+  # 开启文章目录
+  showToc = true
+  # 开启搜索
+  enableSearch = true
+  # 主页文章摘要
+  showPostSummary = true
+
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "文章"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "归档"
+    url = "/archives/"
+    weight = 3
+  [[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 4
