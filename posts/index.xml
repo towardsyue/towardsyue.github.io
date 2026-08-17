@@ -1,1 +1,89 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Sheayu</title><link>https://towardsyue.github.io/posts/</link><description>Recent content in Posts on Sheayu</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://towardsyue.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>你好，世界</title><link>https://towardsyue.github.io/posts/hello-world/</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate><guid>https://towardsyue.github.io/posts/hello-world/</guid><description>我的第一篇博客</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Sheayu</title><link>https://towardsyue.github.io/posts/</link><description>Recent content in Posts on Sheayu</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://towardsyue.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>痛点分析</title><link>https://towardsyue.github.io/posts/%E7%97%9B%E7%82%B9%E5%88%86%E6%9E%90/</link><pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate><guid>https://towardsyue.github.io/posts/%E7%97%9B%E7%82%B9%E5%88%86%E6%9E%90/</guid><description>&lt;p&gt;可以。结合荣耀600已经公开的产品信息，以及目前的用户评价来看，如果从**“产营销一体化”&lt;strong&gt;——也就是把&lt;/strong&gt;产品定义、研发配置、用户需求、传播内容、渠道销售、终端转化**放在一条链路上看，我认为荣耀600的问题不是“配置不够”，反而是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;配置很多，但消费者真正记住的东西还不够聚焦；产品优势与营销语言之间存在一定错位。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;荣耀600系列目前主打的是&lt;strong&gt;幸运星设计、全焦段4K Live、护眼、大电池&lt;/strong&gt;，同时覆盖元气版、超级版、Pro三档，国补后2294.15元起。(&lt;a href="https://www.honor.com/cn/news/honor-600-launch/?utm_source=chatgpt.com" title="超级4K实况神机，全新“幸运星”荣耀600系列发布，国补价2294.15元起 | 荣耀官方网站"&gt;荣耀&lt;/a&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="一先说结论荣耀600最大的5个痛点"&gt;一、先说结论：荣耀600最大的5个痛点&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;痛点&lt;/th&gt;
+&lt;th&gt;产品层&lt;/th&gt;
+&lt;th&gt;营销层&lt;/th&gt;
+&lt;th&gt;本质问题&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;1. 核心卖点太多&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;4K Live、2亿、8600mAh、护眼、IP69K、幸运星、AI……&lt;/td&gt;
+&lt;td&gt;宣传信息密度过高&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;消费者记不住&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2. 4K Live教育成本高&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;技术确实有差异化&lt;/td&gt;
+&lt;td&gt;普通用户未必理解“4K Live有什么用”&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;技术优势没有完全转化成消费价值&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;3. 性能认知偏弱&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;超级版使用骁龙7系&lt;/td&gt;
+&lt;td&gt;同价位竞品容易拿“旗舰芯片”打性能牌&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;容易被贴上“拍照手机”标签&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;4. 三个版本定位容易混淆&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;元气版/超级版/Pro功能差异大&lt;/td&gt;
+&lt;td&gt;消费者需要花时间比较&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;购买决策成本偏高&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;5. 年轻化营销容易停留在“好看”&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;幸运星设计、明星代言&lt;/td&gt;
+&lt;td&gt;情绪价值比较强&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;需要进一步绑定真实生活场景&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h1 id="二痛点1卖点太多反而没有第一购买理由"&gt;二、痛点1：卖点太多，反而没有“第一购买理由”&lt;/h1&gt;
+&lt;p&gt;荣耀600现在的配置其实很强：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2亿像素大底主摄&lt;/li&gt;
+&lt;li&gt;4K Live&lt;/li&gt;
+&lt;li&gt;8600mAh&lt;/li&gt;
+&lt;li&gt;8000nits&lt;/li&gt;
+&lt;li&gt;1.5K OLED&lt;/li&gt;
+&lt;li&gt;IP68/IP69/IP69K&lt;/li&gt;
+&lt;li&gt;AI&lt;/li&gt;
+&lt;li&gt;幸运星设计&lt;/li&gt;
+&lt;li&gt;双对称AI变焦闪光灯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;官方甚至直接把产品总结为：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“好看、好拍、护眼、好用的超级4K实况神机。”&lt;/strong&gt; (&lt;a href="https://www.honor.com/cn/news/honor-600-launch/?utm_source=chatgpt.com" title="超级4K实况神机，全新“幸运星”荣耀600系列发布，国补价2294.15元起 | 荣耀官方网站"&gt;荣耀&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;问题在于：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“好看、好拍、护眼、好用”是四个方向。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;消费者购买手机的时候通常不会同时记住四件事。&lt;/p&gt;
+&lt;h3 id="所以产营销一体化应该做"&gt;所以产营销一体化应该做：&lt;/h3&gt;
+&lt;p&gt;把所有产品能力收敛成一个&lt;strong&gt;超级购买理由&lt;/strong&gt;：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id="把生活拍成4k-live"&gt;“把生活拍成4K Live。”&lt;/h2&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;然后其他能力全部变成支撑：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 4K Live
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; │
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; ┌─────────┼─────────┐
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; │ │ │
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 2亿大底 AI影像 大电池
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; │ │ │
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; └─────────┼─────────┘
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; │
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; “随手记录生活”
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; │
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 旅行 / 毕业 / 演唱会
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 朋友 / 宠物 / 情侣
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这样消费者才容易形成认知：&lt;/p&gt;</description></item><item><title>你好，世界</title><link>https://towardsyue.github.io/posts/hello-world/</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate><guid>https://towardsyue.github.io/posts/hello-world/</guid><description>我的第一篇博客</description></item></channel></rss>
